@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/MayankSavaliya/Crypto-Price-Tracker.git
+   git clone https://github.com/Princekumar7999/Crypto-Price-Tracker.git
    cd Crypto-Price-Tracker
 
 2. Install frontend dependencies:
